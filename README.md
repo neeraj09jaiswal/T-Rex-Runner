@@ -3,4 +3,4 @@ This is a Graphics game programmed using C++ programming language. It is an ente
 FOLLOW: 
 >**Utilized: C++, Turbo-C++ IDE, Graphics Library.**
 >>USE TurboC++ to Compile The Project Code.
->>Before that for Graphics Intialise the Diretories Name in TurboC++ As Given in Repository Picture.
+>>Before that for Graphics Settings, Diretories Name Intialise for TurboC++ As Given in Repository Picture.
